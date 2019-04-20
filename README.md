@@ -1,24 +1,7 @@
-# README
+# swift-railsApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+iOSアプリとRailsの連携学習のために作られたテストアプリです。
 
-Things you may want to cover:
+iOSアプリから受け取ったhttp通信にそってレコードを保存します。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[このリポジトリ](https://github.com/miball0202/swift-rails_testApp/tree/master)にあるアプリから通信を受け取ります。
