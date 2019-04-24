@@ -1,2 +1,9 @@
-<h1>Memos#index</h1>
-<p>Find me in app/views/memos/index.html.erb</p>
+<h1>all memos</h1>
+
+<ul>
+  <% @memos.each do |memo| %>
+    <li>
+      memo.text
+    </li>
+  <% end %>
+</ul>
